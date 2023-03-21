@@ -1,6 +1,6 @@
 # Music-Store-Data-Analysis-Project-SQL
 
-I have used Posgres SQL to perform in this project
+I have used Postgresql to perform in this project
 The following questions have been asnswered in the project!
 
 Question Set 1 - Easy
