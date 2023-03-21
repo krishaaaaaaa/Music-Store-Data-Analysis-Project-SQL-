@@ -13,7 +13,7 @@ Question Set 1 - Easy
 Question Set 2 – Moderate
 6. Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A
 7. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name and total track count of the top 10 rock bands
-8. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first
+8.  Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first
 
 Question Set 3 – Advance
 9. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent
